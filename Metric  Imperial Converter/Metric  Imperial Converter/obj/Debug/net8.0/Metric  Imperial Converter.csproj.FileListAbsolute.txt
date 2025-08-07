@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Metric  Imperial Converter\Metric  Imperial Converter\bin\Debug\net8.0\Metric  Imperial Converter.exe
+C:\Users\user\source\repos\Metric  Imperial Converter\Metric  Imperial Converter\bin\Debug\net8.0\Metric  Imperial Converter.deps.json
+C:\Users\user\source\repos\Metric  Imperial Converter\Metric  Imperial Converter\bin\Debug\net8.0\Metric  Imperial Converter.runtimeconfig.json
+C:\Users\user\source\repos\Metric  Imperial Converter\Metric  Imperial Converter\bin\Debug\net8.0\Metric  Imperial Converter.dll
+C:\Users\user\source\repos\Metric  Imperial Converter\Metric  Imperial Converter\bin\Debug\net8.0\Metric  Imperial Converter.pdb
+C:\Users\user\source\repos\Metric  Imperial Converter\Metric  Imperial Converter\obj\Debug\net8.0\Metric  Imperial Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Metric  Imperial Converter\Metric  Imperial Converter\obj\Debug\net8.0\Metric  Imperial Converter.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Metric  Imperial Converter\Metric  Imperial Converter\obj\Debug\net8.0\Metric  Imperial Converter.AssemblyInfo.cs
+C:\Users\user\source\repos\Metric  Imperial Converter\Metric  Imperial Converter\obj\Debug\net8.0\Metric  Imperial Converter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Metric  Imperial Converter\Metric  Imperial Converter\obj\Debug\net8.0\Metric  Imperial Converter.dll
+C:\Users\user\source\repos\Metric  Imperial Converter\Metric  Imperial Converter\obj\Debug\net8.0\refint\Metric  Imperial Converter.dll
+C:\Users\user\source\repos\Metric  Imperial Converter\Metric  Imperial Converter\obj\Debug\net8.0\Metric  Imperial Converter.pdb
+C:\Users\user\source\repos\Metric  Imperial Converter\Metric  Imperial Converter\obj\Debug\net8.0\Metric  Imperial Converter.genruntimeconfig.cache
+C:\Users\user\source\repos\Metric  Imperial Converter\Metric  Imperial Converter\obj\Debug\net8.0\ref\Metric  Imperial Converter.dll
