@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Boxing Cost Stopwatch\Boxing Cost Stopwatch\bin\Debug\net8.0\Boxing Cost Stopwatch.exe
+C:\Users\user\source\repos\Boxing Cost Stopwatch\Boxing Cost Stopwatch\bin\Debug\net8.0\Boxing Cost Stopwatch.deps.json
+C:\Users\user\source\repos\Boxing Cost Stopwatch\Boxing Cost Stopwatch\bin\Debug\net8.0\Boxing Cost Stopwatch.runtimeconfig.json
+C:\Users\user\source\repos\Boxing Cost Stopwatch\Boxing Cost Stopwatch\bin\Debug\net8.0\Boxing Cost Stopwatch.dll
+C:\Users\user\source\repos\Boxing Cost Stopwatch\Boxing Cost Stopwatch\bin\Debug\net8.0\Boxing Cost Stopwatch.pdb
+C:\Users\user\source\repos\Boxing Cost Stopwatch\Boxing Cost Stopwatch\obj\Debug\net8.0\Boxing Cost Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Boxing Cost Stopwatch\Boxing Cost Stopwatch\obj\Debug\net8.0\Boxing Cost Stopwatch.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Boxing Cost Stopwatch\Boxing Cost Stopwatch\obj\Debug\net8.0\Boxing Cost Stopwatch.AssemblyInfo.cs
+C:\Users\user\source\repos\Boxing Cost Stopwatch\Boxing Cost Stopwatch\obj\Debug\net8.0\Boxing Cost Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Boxing Cost Stopwatch\Boxing Cost Stopwatch\obj\Debug\net8.0\Boxing Cost Stopwatch.dll
+C:\Users\user\source\repos\Boxing Cost Stopwatch\Boxing Cost Stopwatch\obj\Debug\net8.0\refint\Boxing Cost Stopwatch.dll
+C:\Users\user\source\repos\Boxing Cost Stopwatch\Boxing Cost Stopwatch\obj\Debug\net8.0\Boxing Cost Stopwatch.pdb
+C:\Users\user\source\repos\Boxing Cost Stopwatch\Boxing Cost Stopwatch\obj\Debug\net8.0\Boxing Cost Stopwatch.genruntimeconfig.cache
+C:\Users\user\source\repos\Boxing Cost Stopwatch\Boxing Cost Stopwatch\obj\Debug\net8.0\ref\Boxing Cost Stopwatch.dll
