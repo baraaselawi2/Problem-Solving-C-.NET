@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Help-Desk Ticket Queue\Help-Desk Ticket Queue\bin\Debug\net8.0\Help-Desk Ticket Queue.exe
+C:\Users\user\source\repos\Help-Desk Ticket Queue\Help-Desk Ticket Queue\bin\Debug\net8.0\Help-Desk Ticket Queue.deps.json
+C:\Users\user\source\repos\Help-Desk Ticket Queue\Help-Desk Ticket Queue\bin\Debug\net8.0\Help-Desk Ticket Queue.runtimeconfig.json
+C:\Users\user\source\repos\Help-Desk Ticket Queue\Help-Desk Ticket Queue\bin\Debug\net8.0\Help-Desk Ticket Queue.dll
+C:\Users\user\source\repos\Help-Desk Ticket Queue\Help-Desk Ticket Queue\bin\Debug\net8.0\Help-Desk Ticket Queue.pdb
+C:\Users\user\source\repos\Help-Desk Ticket Queue\Help-Desk Ticket Queue\obj\Debug\net8.0\Help-Desk Ticket Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Help-Desk Ticket Queue\Help-Desk Ticket Queue\obj\Debug\net8.0\Help-Desk Ticket Queue.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Help-Desk Ticket Queue\Help-Desk Ticket Queue\obj\Debug\net8.0\Help-Desk Ticket Queue.AssemblyInfo.cs
+C:\Users\user\source\repos\Help-Desk Ticket Queue\Help-Desk Ticket Queue\obj\Debug\net8.0\Help-Desk Ticket Queue.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Help-Desk Ticket Queue\Help-Desk Ticket Queue\obj\Debug\net8.0\Help-Desk Ticket Queue.dll
+C:\Users\user\source\repos\Help-Desk Ticket Queue\Help-Desk Ticket Queue\obj\Debug\net8.0\refint\Help-Desk Ticket Queue.dll
+C:\Users\user\source\repos\Help-Desk Ticket Queue\Help-Desk Ticket Queue\obj\Debug\net8.0\Help-Desk Ticket Queue.pdb
+C:\Users\user\source\repos\Help-Desk Ticket Queue\Help-Desk Ticket Queue\obj\Debug\net8.0\Help-Desk Ticket Queue.genruntimeconfig.cache
+C:\Users\user\source\repos\Help-Desk Ticket Queue\Help-Desk Ticket Queue\obj\Debug\net8.0\ref\Help-Desk Ticket Queue.dll
