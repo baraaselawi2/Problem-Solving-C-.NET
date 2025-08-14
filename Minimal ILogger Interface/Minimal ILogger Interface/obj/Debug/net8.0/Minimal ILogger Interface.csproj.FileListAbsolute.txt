@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Minimal ILogger Interface\Minimal ILogger Interface\obj\Debug\net8.0\Minimal ILogger Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Minimal ILogger Interface\Minimal ILogger Interface\obj\Debug\net8.0\Minimal ILogger Interface.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Minimal ILogger Interface\Minimal ILogger Interface\obj\Debug\net8.0\Minimal ILogger Interface.AssemblyInfo.cs
+C:\Users\user\source\repos\Minimal ILogger Interface\Minimal ILogger Interface\obj\Debug\net8.0\Minimal ILogger Interface.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Minimal ILogger Interface\Minimal ILogger Interface\bin\Debug\net8.0\Minimal ILogger Interface.exe
+C:\Users\user\source\repos\Minimal ILogger Interface\Minimal ILogger Interface\bin\Debug\net8.0\Minimal ILogger Interface.deps.json
+C:\Users\user\source\repos\Minimal ILogger Interface\Minimal ILogger Interface\bin\Debug\net8.0\Minimal ILogger Interface.runtimeconfig.json
+C:\Users\user\source\repos\Minimal ILogger Interface\Minimal ILogger Interface\bin\Debug\net8.0\Minimal ILogger Interface.dll
+C:\Users\user\source\repos\Minimal ILogger Interface\Minimal ILogger Interface\bin\Debug\net8.0\Minimal ILogger Interface.pdb
+C:\Users\user\source\repos\Minimal ILogger Interface\Minimal ILogger Interface\obj\Debug\net8.0\Minimal ILogger Interface.dll
+C:\Users\user\source\repos\Minimal ILogger Interface\Minimal ILogger Interface\obj\Debug\net8.0\refint\Minimal ILogger Interface.dll
+C:\Users\user\source\repos\Minimal ILogger Interface\Minimal ILogger Interface\obj\Debug\net8.0\Minimal ILogger Interface.pdb
+C:\Users\user\source\repos\Minimal ILogger Interface\Minimal ILogger Interface\obj\Debug\net8.0\Minimal ILogger Interface.genruntimeconfig.cache
+C:\Users\user\source\repos\Minimal ILogger Interface\Minimal ILogger Interface\obj\Debug\net8.0\ref\Minimal ILogger Interface.dll

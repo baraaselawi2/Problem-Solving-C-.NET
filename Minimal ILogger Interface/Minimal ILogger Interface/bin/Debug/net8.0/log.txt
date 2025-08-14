@@ -1,0 +1,4 @@
+This is a file log message.
+This is a file log message.
+This is a file log message.
+log message
