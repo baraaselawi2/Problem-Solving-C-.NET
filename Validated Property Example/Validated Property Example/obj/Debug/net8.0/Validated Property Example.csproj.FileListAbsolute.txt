@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Validated Property Example\Validated Property Example\bin\Debug\net8.0\Validated Property Example.exe
+C:\Users\user\source\repos\Validated Property Example\Validated Property Example\bin\Debug\net8.0\Validated Property Example.deps.json
+C:\Users\user\source\repos\Validated Property Example\Validated Property Example\bin\Debug\net8.0\Validated Property Example.runtimeconfig.json
+C:\Users\user\source\repos\Validated Property Example\Validated Property Example\bin\Debug\net8.0\Validated Property Example.dll
+C:\Users\user\source\repos\Validated Property Example\Validated Property Example\bin\Debug\net8.0\Validated Property Example.pdb
+C:\Users\user\source\repos\Validated Property Example\Validated Property Example\obj\Debug\net8.0\Validated Property Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Validated Property Example\Validated Property Example\obj\Debug\net8.0\Validated Property Example.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Validated Property Example\Validated Property Example\obj\Debug\net8.0\Validated Property Example.AssemblyInfo.cs
+C:\Users\user\source\repos\Validated Property Example\Validated Property Example\obj\Debug\net8.0\Validated Property Example.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Validated Property Example\Validated Property Example\obj\Debug\net8.0\Validated Property Example.dll
+C:\Users\user\source\repos\Validated Property Example\Validated Property Example\obj\Debug\net8.0\refint\Validated Property Example.dll
+C:\Users\user\source\repos\Validated Property Example\Validated Property Example\obj\Debug\net8.0\Validated Property Example.pdb
+C:\Users\user\source\repos\Validated Property Example\Validated Property Example\obj\Debug\net8.0\Validated Property Example.genruntimeconfig.cache
+C:\Users\user\source\repos\Validated Property Example\Validated Property Example\obj\Debug\net8.0\ref\Validated Property Example.dll
