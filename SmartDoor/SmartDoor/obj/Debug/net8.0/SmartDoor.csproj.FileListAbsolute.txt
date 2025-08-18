@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\SmartDoor\SmartDoor\bin\Debug\net8.0\SmartDoor.exe
+C:\Users\user\source\repos\SmartDoor\SmartDoor\bin\Debug\net8.0\SmartDoor.deps.json
+C:\Users\user\source\repos\SmartDoor\SmartDoor\bin\Debug\net8.0\SmartDoor.runtimeconfig.json
+C:\Users\user\source\repos\SmartDoor\SmartDoor\bin\Debug\net8.0\SmartDoor.dll
+C:\Users\user\source\repos\SmartDoor\SmartDoor\bin\Debug\net8.0\SmartDoor.pdb
+C:\Users\user\source\repos\SmartDoor\SmartDoor\obj\Debug\net8.0\SmartDoor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SmartDoor\SmartDoor\obj\Debug\net8.0\SmartDoor.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SmartDoor\SmartDoor\obj\Debug\net8.0\SmartDoor.AssemblyInfo.cs
+C:\Users\user\source\repos\SmartDoor\SmartDoor\obj\Debug\net8.0\SmartDoor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SmartDoor\SmartDoor\obj\Debug\net8.0\SmartDoor.dll
+C:\Users\user\source\repos\SmartDoor\SmartDoor\obj\Debug\net8.0\refint\SmartDoor.dll
+C:\Users\user\source\repos\SmartDoor\SmartDoor\obj\Debug\net8.0\SmartDoor.pdb
+C:\Users\user\source\repos\SmartDoor\SmartDoor\obj\Debug\net8.0\SmartDoor.genruntimeconfig.cache
+C:\Users\user\source\repos\SmartDoor\SmartDoor\obj\Debug\net8.0\ref\SmartDoor.dll
