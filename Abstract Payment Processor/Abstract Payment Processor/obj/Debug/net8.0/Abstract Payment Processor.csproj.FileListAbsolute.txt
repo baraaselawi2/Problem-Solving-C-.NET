@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Abstract Payment Processor\Abstract Payment Processor\bin\Debug\net8.0\Abstract Payment Processor.exe
+C:\Users\user\source\repos\Abstract Payment Processor\Abstract Payment Processor\bin\Debug\net8.0\Abstract Payment Processor.deps.json
+C:\Users\user\source\repos\Abstract Payment Processor\Abstract Payment Processor\bin\Debug\net8.0\Abstract Payment Processor.runtimeconfig.json
+C:\Users\user\source\repos\Abstract Payment Processor\Abstract Payment Processor\bin\Debug\net8.0\Abstract Payment Processor.dll
+C:\Users\user\source\repos\Abstract Payment Processor\Abstract Payment Processor\bin\Debug\net8.0\Abstract Payment Processor.pdb
+C:\Users\user\source\repos\Abstract Payment Processor\Abstract Payment Processor\obj\Debug\net8.0\Abstract Payment Processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Abstract Payment Processor\Abstract Payment Processor\obj\Debug\net8.0\Abstract Payment Processor.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Abstract Payment Processor\Abstract Payment Processor\obj\Debug\net8.0\Abstract Payment Processor.AssemblyInfo.cs
+C:\Users\user\source\repos\Abstract Payment Processor\Abstract Payment Processor\obj\Debug\net8.0\Abstract Payment Processor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Abstract Payment Processor\Abstract Payment Processor\obj\Debug\net8.0\Abstract Payment Processor.dll
+C:\Users\user\source\repos\Abstract Payment Processor\Abstract Payment Processor\obj\Debug\net8.0\refint\Abstract Payment Processor.dll
+C:\Users\user\source\repos\Abstract Payment Processor\Abstract Payment Processor\obj\Debug\net8.0\Abstract Payment Processor.pdb
+C:\Users\user\source\repos\Abstract Payment Processor\Abstract Payment Processor\obj\Debug\net8.0\Abstract Payment Processor.genruntimeconfig.cache
+C:\Users\user\source\repos\Abstract Payment Processor\Abstract Payment Processor\obj\Debug\net8.0\ref\Abstract Payment Processor.dll
