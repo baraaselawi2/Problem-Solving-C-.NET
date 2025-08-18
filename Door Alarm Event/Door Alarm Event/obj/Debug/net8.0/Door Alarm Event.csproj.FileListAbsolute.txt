@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Door Alarm Event\Door Alarm Event\bin\Debug\net8.0\Door Alarm Event.exe
+C:\Users\user\source\repos\Door Alarm Event\Door Alarm Event\bin\Debug\net8.0\Door Alarm Event.deps.json
+C:\Users\user\source\repos\Door Alarm Event\Door Alarm Event\bin\Debug\net8.0\Door Alarm Event.runtimeconfig.json
+C:\Users\user\source\repos\Door Alarm Event\Door Alarm Event\bin\Debug\net8.0\Door Alarm Event.dll
+C:\Users\user\source\repos\Door Alarm Event\Door Alarm Event\bin\Debug\net8.0\Door Alarm Event.pdb
+C:\Users\user\source\repos\Door Alarm Event\Door Alarm Event\obj\Debug\net8.0\Door Alarm Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Door Alarm Event\Door Alarm Event\obj\Debug\net8.0\Door Alarm Event.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Door Alarm Event\Door Alarm Event\obj\Debug\net8.0\Door Alarm Event.AssemblyInfo.cs
+C:\Users\user\source\repos\Door Alarm Event\Door Alarm Event\obj\Debug\net8.0\Door Alarm Event.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Door Alarm Event\Door Alarm Event\obj\Debug\net8.0\Door Alarm Event.dll
+C:\Users\user\source\repos\Door Alarm Event\Door Alarm Event\obj\Debug\net8.0\refint\Door Alarm Event.dll
+C:\Users\user\source\repos\Door Alarm Event\Door Alarm Event\obj\Debug\net8.0\Door Alarm Event.pdb
+C:\Users\user\source\repos\Door Alarm Event\Door Alarm Event\obj\Debug\net8.0\Door Alarm Event.genruntimeconfig.cache
+C:\Users\user\source\repos\Door Alarm Event\Door Alarm Event\obj\Debug\net8.0\ref\Door Alarm Event.dll
