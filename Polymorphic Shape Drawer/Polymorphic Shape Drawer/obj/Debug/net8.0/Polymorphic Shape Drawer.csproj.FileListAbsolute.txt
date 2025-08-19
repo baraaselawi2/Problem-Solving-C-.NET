@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Polymorphic Shape Drawer\Polymorphic Shape Drawer\bin\Debug\net8.0\Polymorphic Shape Drawer.exe
+C:\Users\user\source\repos\Polymorphic Shape Drawer\Polymorphic Shape Drawer\bin\Debug\net8.0\Polymorphic Shape Drawer.deps.json
+C:\Users\user\source\repos\Polymorphic Shape Drawer\Polymorphic Shape Drawer\bin\Debug\net8.0\Polymorphic Shape Drawer.runtimeconfig.json
+C:\Users\user\source\repos\Polymorphic Shape Drawer\Polymorphic Shape Drawer\bin\Debug\net8.0\Polymorphic Shape Drawer.dll
+C:\Users\user\source\repos\Polymorphic Shape Drawer\Polymorphic Shape Drawer\bin\Debug\net8.0\Polymorphic Shape Drawer.pdb
+C:\Users\user\source\repos\Polymorphic Shape Drawer\Polymorphic Shape Drawer\obj\Debug\net8.0\Polymorphic Shape Drawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Polymorphic Shape Drawer\Polymorphic Shape Drawer\obj\Debug\net8.0\Polymorphic Shape Drawer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Polymorphic Shape Drawer\Polymorphic Shape Drawer\obj\Debug\net8.0\Polymorphic Shape Drawer.AssemblyInfo.cs
+C:\Users\user\source\repos\Polymorphic Shape Drawer\Polymorphic Shape Drawer\obj\Debug\net8.0\Polymorphic Shape Drawer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Polymorphic Shape Drawer\Polymorphic Shape Drawer\obj\Debug\net8.0\Polymorphic Shape Drawer.dll
+C:\Users\user\source\repos\Polymorphic Shape Drawer\Polymorphic Shape Drawer\obj\Debug\net8.0\refint\Polymorphic Shape Drawer.dll
+C:\Users\user\source\repos\Polymorphic Shape Drawer\Polymorphic Shape Drawer\obj\Debug\net8.0\Polymorphic Shape Drawer.pdb
+C:\Users\user\source\repos\Polymorphic Shape Drawer\Polymorphic Shape Drawer\obj\Debug\net8.0\Polymorphic Shape Drawer.genruntimeconfig.cache
+C:\Users\user\source\repos\Polymorphic Shape Drawer\Polymorphic Shape Drawer\obj\Debug\net8.0\ref\Polymorphic Shape Drawer.dll
