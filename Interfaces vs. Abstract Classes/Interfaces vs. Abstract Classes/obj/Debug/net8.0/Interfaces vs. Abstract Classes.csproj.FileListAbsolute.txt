@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Interfaces vs. Abstract Classes\Interfaces vs. Abstract Classes\bin\Debug\net8.0\Interfaces vs. Abstract Classes.exe
+C:\Users\user\source\repos\Interfaces vs. Abstract Classes\Interfaces vs. Abstract Classes\bin\Debug\net8.0\Interfaces vs. Abstract Classes.deps.json
+C:\Users\user\source\repos\Interfaces vs. Abstract Classes\Interfaces vs. Abstract Classes\bin\Debug\net8.0\Interfaces vs. Abstract Classes.runtimeconfig.json
+C:\Users\user\source\repos\Interfaces vs. Abstract Classes\Interfaces vs. Abstract Classes\bin\Debug\net8.0\Interfaces vs. Abstract Classes.dll
+C:\Users\user\source\repos\Interfaces vs. Abstract Classes\Interfaces vs. Abstract Classes\bin\Debug\net8.0\Interfaces vs. Abstract Classes.pdb
+C:\Users\user\source\repos\Interfaces vs. Abstract Classes\Interfaces vs. Abstract Classes\obj\Debug\net8.0\Interfaces vs. Abstract Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Interfaces vs. Abstract Classes\Interfaces vs. Abstract Classes\obj\Debug\net8.0\Interfaces vs. Abstract Classes.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Interfaces vs. Abstract Classes\Interfaces vs. Abstract Classes\obj\Debug\net8.0\Interfaces vs. Abstract Classes.AssemblyInfo.cs
+C:\Users\user\source\repos\Interfaces vs. Abstract Classes\Interfaces vs. Abstract Classes\obj\Debug\net8.0\Interfaces vs. Abstract Classes.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Interfaces vs. Abstract Classes\Interfaces vs. Abstract Classes\obj\Debug\net8.0\Interfaces vs. Abstract Classes.dll
+C:\Users\user\source\repos\Interfaces vs. Abstract Classes\Interfaces vs. Abstract Classes\obj\Debug\net8.0\refint\Interfaces vs. Abstract Classes.dll
+C:\Users\user\source\repos\Interfaces vs. Abstract Classes\Interfaces vs. Abstract Classes\obj\Debug\net8.0\Interfaces vs. Abstract Classes.pdb
+C:\Users\user\source\repos\Interfaces vs. Abstract Classes\Interfaces vs. Abstract Classes\obj\Debug\net8.0\Interfaces vs. Abstract Classes.genruntimeconfig.cache
+C:\Users\user\source\repos\Interfaces vs. Abstract Classes\Interfaces vs. Abstract Classes\obj\Debug\net8.0\ref\Interfaces vs. Abstract Classes.dll
