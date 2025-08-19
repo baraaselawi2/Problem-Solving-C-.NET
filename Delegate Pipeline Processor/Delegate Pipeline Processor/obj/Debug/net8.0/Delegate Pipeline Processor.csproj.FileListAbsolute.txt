@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Delegate Pipeline Processor\Delegate Pipeline Processor\bin\Debug\net8.0\Delegate Pipeline Processor.exe
+C:\Users\user\source\repos\Delegate Pipeline Processor\Delegate Pipeline Processor\bin\Debug\net8.0\Delegate Pipeline Processor.deps.json
+C:\Users\user\source\repos\Delegate Pipeline Processor\Delegate Pipeline Processor\bin\Debug\net8.0\Delegate Pipeline Processor.runtimeconfig.json
+C:\Users\user\source\repos\Delegate Pipeline Processor\Delegate Pipeline Processor\bin\Debug\net8.0\Delegate Pipeline Processor.dll
+C:\Users\user\source\repos\Delegate Pipeline Processor\Delegate Pipeline Processor\bin\Debug\net8.0\Delegate Pipeline Processor.pdb
+C:\Users\user\source\repos\Delegate Pipeline Processor\Delegate Pipeline Processor\obj\Debug\net8.0\Delegate Pipeline Processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Delegate Pipeline Processor\Delegate Pipeline Processor\obj\Debug\net8.0\Delegate Pipeline Processor.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Delegate Pipeline Processor\Delegate Pipeline Processor\obj\Debug\net8.0\Delegate Pipeline Processor.AssemblyInfo.cs
+C:\Users\user\source\repos\Delegate Pipeline Processor\Delegate Pipeline Processor\obj\Debug\net8.0\Delegate Pipeline Processor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Delegate Pipeline Processor\Delegate Pipeline Processor\obj\Debug\net8.0\Delegate Pipeline Processor.dll
+C:\Users\user\source\repos\Delegate Pipeline Processor\Delegate Pipeline Processor\obj\Debug\net8.0\refint\Delegate Pipeline Processor.dll
+C:\Users\user\source\repos\Delegate Pipeline Processor\Delegate Pipeline Processor\obj\Debug\net8.0\Delegate Pipeline Processor.pdb
+C:\Users\user\source\repos\Delegate Pipeline Processor\Delegate Pipeline Processor\obj\Debug\net8.0\Delegate Pipeline Processor.genruntimeconfig.cache
+C:\Users\user\source\repos\Delegate Pipeline Processor\Delegate Pipeline Processor\obj\Debug\net8.0\ref\Delegate Pipeline Processor.dll
