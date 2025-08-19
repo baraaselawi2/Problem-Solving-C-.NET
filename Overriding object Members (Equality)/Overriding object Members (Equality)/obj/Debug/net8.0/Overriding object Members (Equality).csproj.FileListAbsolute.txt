@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Overriding object Members (Equality)\Overriding object Members (Equality)\bin\Debug\net8.0\Overriding object Members (Equality).exe
+C:\Users\user\source\repos\Overriding object Members (Equality)\Overriding object Members (Equality)\bin\Debug\net8.0\Overriding object Members (Equality).deps.json
+C:\Users\user\source\repos\Overriding object Members (Equality)\Overriding object Members (Equality)\bin\Debug\net8.0\Overriding object Members (Equality).runtimeconfig.json
+C:\Users\user\source\repos\Overriding object Members (Equality)\Overriding object Members (Equality)\bin\Debug\net8.0\Overriding object Members (Equality).dll
+C:\Users\user\source\repos\Overriding object Members (Equality)\Overriding object Members (Equality)\bin\Debug\net8.0\Overriding object Members (Equality).pdb
+C:\Users\user\source\repos\Overriding object Members (Equality)\Overriding object Members (Equality)\obj\Debug\net8.0\Overriding object Members (Equality).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Overriding object Members (Equality)\Overriding object Members (Equality)\obj\Debug\net8.0\Overriding object Members (Equality).AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Overriding object Members (Equality)\Overriding object Members (Equality)\obj\Debug\net8.0\Overriding object Members (Equality).AssemblyInfo.cs
+C:\Users\user\source\repos\Overriding object Members (Equality)\Overriding object Members (Equality)\obj\Debug\net8.0\Overriding object Members (Equality).csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Overriding object Members (Equality)\Overriding object Members (Equality)\obj\Debug\net8.0\Overriding object Members (Equality).dll
+C:\Users\user\source\repos\Overriding object Members (Equality)\Overriding object Members (Equality)\obj\Debug\net8.0\refint\Overriding object Members (Equality).dll
+C:\Users\user\source\repos\Overriding object Members (Equality)\Overriding object Members (Equality)\obj\Debug\net8.0\Overriding object Members (Equality).pdb
+C:\Users\user\source\repos\Overriding object Members (Equality)\Overriding object Members (Equality)\obj\Debug\net8.0\Overriding object Members (Equality).genruntimeconfig.cache
+C:\Users\user\source\repos\Overriding object Members (Equality)\Overriding object Members (Equality)\obj\Debug\net8.0\ref\Overriding object Members (Equality).dll
