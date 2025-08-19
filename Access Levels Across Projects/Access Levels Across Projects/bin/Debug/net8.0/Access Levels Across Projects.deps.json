@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Access Levels Across Projects/1.0.0": {
+        "runtime": {
+          "Access Levels Across Projects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Access Levels Across Projects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
