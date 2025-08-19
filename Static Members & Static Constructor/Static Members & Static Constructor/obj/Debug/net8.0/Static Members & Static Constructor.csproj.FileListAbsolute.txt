@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Static Members & Static Constructor\Static Members & Static Constructor\bin\Debug\net8.0\Static Members & Static Constructor.exe
+C:\Users\user\source\repos\Static Members & Static Constructor\Static Members & Static Constructor\bin\Debug\net8.0\Static Members & Static Constructor.deps.json
+C:\Users\user\source\repos\Static Members & Static Constructor\Static Members & Static Constructor\bin\Debug\net8.0\Static Members & Static Constructor.runtimeconfig.json
+C:\Users\user\source\repos\Static Members & Static Constructor\Static Members & Static Constructor\bin\Debug\net8.0\Static Members & Static Constructor.dll
+C:\Users\user\source\repos\Static Members & Static Constructor\Static Members & Static Constructor\bin\Debug\net8.0\Static Members & Static Constructor.pdb
+C:\Users\user\source\repos\Static Members & Static Constructor\Static Members & Static Constructor\obj\Debug\net8.0\Static Members & Static Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Static Members & Static Constructor\Static Members & Static Constructor\obj\Debug\net8.0\Static Members & Static Constructor.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Static Members & Static Constructor\Static Members & Static Constructor\obj\Debug\net8.0\Static Members & Static Constructor.AssemblyInfo.cs
+C:\Users\user\source\repos\Static Members & Static Constructor\Static Members & Static Constructor\obj\Debug\net8.0\Static Members & Static Constructor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Static Members & Static Constructor\Static Members & Static Constructor\obj\Debug\net8.0\Static Members & Static Constructor.dll
+C:\Users\user\source\repos\Static Members & Static Constructor\Static Members & Static Constructor\obj\Debug\net8.0\refint\Static Members & Static Constructor.dll
+C:\Users\user\source\repos\Static Members & Static Constructor\Static Members & Static Constructor\obj\Debug\net8.0\Static Members & Static Constructor.pdb
+C:\Users\user\source\repos\Static Members & Static Constructor\Static Members & Static Constructor\obj\Debug\net8.0\Static Members & Static Constructor.genruntimeconfig.cache
+C:\Users\user\source\repos\Static Members & Static Constructor\Static Members & Static Constructor\obj\Debug\net8.0\ref\Static Members & Static Constructor.dll
