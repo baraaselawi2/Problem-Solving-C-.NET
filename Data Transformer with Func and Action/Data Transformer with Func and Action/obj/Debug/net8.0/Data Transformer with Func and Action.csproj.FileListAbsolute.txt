@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Data Transformer with Func and Action\Data Transformer with Func and Action\obj\Debug\net8.0\Data Transformer with Func and Action.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Data Transformer with Func and Action\Data Transformer with Func and Action\obj\Debug\net8.0\Data Transformer with Func and Action.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Data Transformer with Func and Action\Data Transformer with Func and Action\obj\Debug\net8.0\Data Transformer with Func and Action.AssemblyInfo.cs
+C:\Users\user\source\repos\Data Transformer with Func and Action\Data Transformer with Func and Action\obj\Debug\net8.0\Data Transformer with Func and Action.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Data Transformer with Func and Action\Data Transformer with Func and Action\bin\Debug\net8.0\Data Transformer with Func and Action.exe
+C:\Users\user\source\repos\Data Transformer with Func and Action\Data Transformer with Func and Action\bin\Debug\net8.0\Data Transformer with Func and Action.deps.json
+C:\Users\user\source\repos\Data Transformer with Func and Action\Data Transformer with Func and Action\bin\Debug\net8.0\Data Transformer with Func and Action.runtimeconfig.json
+C:\Users\user\source\repos\Data Transformer with Func and Action\Data Transformer with Func and Action\bin\Debug\net8.0\Data Transformer with Func and Action.dll
+C:\Users\user\source\repos\Data Transformer with Func and Action\Data Transformer with Func and Action\bin\Debug\net8.0\Data Transformer with Func and Action.pdb
+C:\Users\user\source\repos\Data Transformer with Func and Action\Data Transformer with Func and Action\obj\Debug\net8.0\Data Transformer with Func and Action.dll
+C:\Users\user\source\repos\Data Transformer with Func and Action\Data Transformer with Func and Action\obj\Debug\net8.0\refint\Data Transformer with Func and Action.dll
+C:\Users\user\source\repos\Data Transformer with Func and Action\Data Transformer with Func and Action\obj\Debug\net8.0\Data Transformer with Func and Action.pdb
+C:\Users\user\source\repos\Data Transformer with Func and Action\Data Transformer with Func and Action\obj\Debug\net8.0\Data Transformer with Func and Action.genruntimeconfig.cache
+C:\Users\user\source\repos\Data Transformer with Func and Action\Data Transformer with Func and Action\obj\Debug\net8.0\ref\Data Transformer with Func and Action.dll

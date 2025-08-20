@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Data Transformer with Func and Action/1.0.0": {
+        "runtime": {
+          "Data Transformer with Func and Action.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Data Transformer with Func and Action/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
