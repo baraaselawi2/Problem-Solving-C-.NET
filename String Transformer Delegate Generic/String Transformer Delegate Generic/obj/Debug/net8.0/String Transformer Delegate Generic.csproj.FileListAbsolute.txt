@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\String Transformer Delegate Generic\String Transformer Delegate Generic\obj\Debug\net8.0\String Transformer Delegate Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\String Transformer Delegate Generic\String Transformer Delegate Generic\obj\Debug\net8.0\String Transformer Delegate Generic.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\String Transformer Delegate Generic\String Transformer Delegate Generic\obj\Debug\net8.0\String Transformer Delegate Generic.AssemblyInfo.cs
+C:\Users\user\source\repos\String Transformer Delegate Generic\String Transformer Delegate Generic\obj\Debug\net8.0\String Transformer Delegate Generic.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\String Transformer Delegate Generic\String Transformer Delegate Generic\bin\Debug\net8.0\String Transformer Delegate Generic.exe
+C:\Users\user\source\repos\String Transformer Delegate Generic\String Transformer Delegate Generic\bin\Debug\net8.0\String Transformer Delegate Generic.deps.json
+C:\Users\user\source\repos\String Transformer Delegate Generic\String Transformer Delegate Generic\bin\Debug\net8.0\String Transformer Delegate Generic.runtimeconfig.json
+C:\Users\user\source\repos\String Transformer Delegate Generic\String Transformer Delegate Generic\bin\Debug\net8.0\String Transformer Delegate Generic.dll
+C:\Users\user\source\repos\String Transformer Delegate Generic\String Transformer Delegate Generic\bin\Debug\net8.0\String Transformer Delegate Generic.pdb
+C:\Users\user\source\repos\String Transformer Delegate Generic\String Transformer Delegate Generic\obj\Debug\net8.0\String Transformer Delegate Generic.dll
+C:\Users\user\source\repos\String Transformer Delegate Generic\String Transformer Delegate Generic\obj\Debug\net8.0\refint\String Transformer Delegate Generic.dll
+C:\Users\user\source\repos\String Transformer Delegate Generic\String Transformer Delegate Generic\obj\Debug\net8.0\String Transformer Delegate Generic.pdb
+C:\Users\user\source\repos\String Transformer Delegate Generic\String Transformer Delegate Generic\obj\Debug\net8.0\String Transformer Delegate Generic.genruntimeconfig.cache
+C:\Users\user\source\repos\String Transformer Delegate Generic\String Transformer Delegate Generic\obj\Debug\net8.0\ref\String Transformer Delegate Generic.dll
