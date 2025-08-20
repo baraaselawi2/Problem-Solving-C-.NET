@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Dynamic Strategy (Delegates + OOP)\Dynamic Strategy (Delegates + OOP)\bin\Debug\net8.0\Dynamic Strategy (Delegates + OOP).exe
+C:\Users\user\source\repos\Dynamic Strategy (Delegates + OOP)\Dynamic Strategy (Delegates + OOP)\bin\Debug\net8.0\Dynamic Strategy (Delegates + OOP).deps.json
+C:\Users\user\source\repos\Dynamic Strategy (Delegates + OOP)\Dynamic Strategy (Delegates + OOP)\bin\Debug\net8.0\Dynamic Strategy (Delegates + OOP).runtimeconfig.json
+C:\Users\user\source\repos\Dynamic Strategy (Delegates + OOP)\Dynamic Strategy (Delegates + OOP)\bin\Debug\net8.0\Dynamic Strategy (Delegates + OOP).dll
+C:\Users\user\source\repos\Dynamic Strategy (Delegates + OOP)\Dynamic Strategy (Delegates + OOP)\bin\Debug\net8.0\Dynamic Strategy (Delegates + OOP).pdb
+C:\Users\user\source\repos\Dynamic Strategy (Delegates + OOP)\Dynamic Strategy (Delegates + OOP)\obj\Debug\net8.0\Dynamic Strategy (Delegates + OOP).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Dynamic Strategy (Delegates + OOP)\Dynamic Strategy (Delegates + OOP)\obj\Debug\net8.0\Dynamic Strategy (Delegates + OOP).AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Dynamic Strategy (Delegates + OOP)\Dynamic Strategy (Delegates + OOP)\obj\Debug\net8.0\Dynamic Strategy (Delegates + OOP).AssemblyInfo.cs
+C:\Users\user\source\repos\Dynamic Strategy (Delegates + OOP)\Dynamic Strategy (Delegates + OOP)\obj\Debug\net8.0\Dynamic Strategy (Delegates + OOP).csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dynamic Strategy (Delegates + OOP)\Dynamic Strategy (Delegates + OOP)\obj\Debug\net8.0\Dynamic Strategy (Delegates + OOP).dll
+C:\Users\user\source\repos\Dynamic Strategy (Delegates + OOP)\Dynamic Strategy (Delegates + OOP)\obj\Debug\net8.0\refint\Dynamic Strategy (Delegates + OOP).dll
+C:\Users\user\source\repos\Dynamic Strategy (Delegates + OOP)\Dynamic Strategy (Delegates + OOP)\obj\Debug\net8.0\Dynamic Strategy (Delegates + OOP).pdb
+C:\Users\user\source\repos\Dynamic Strategy (Delegates + OOP)\Dynamic Strategy (Delegates + OOP)\obj\Debug\net8.0\Dynamic Strategy (Delegates + OOP).genruntimeconfig.cache
+C:\Users\user\source\repos\Dynamic Strategy (Delegates + OOP)\Dynamic Strategy (Delegates + OOP)\obj\Debug\net8.0\ref\Dynamic Strategy (Delegates + OOP).dll
