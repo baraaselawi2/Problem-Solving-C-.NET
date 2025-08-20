@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Odd & Even Filter\Odd & Even Filter\bin\Debug\net8.0\Odd & Even Filter.exe
+C:\Users\user\source\repos\Odd & Even Filter\Odd & Even Filter\bin\Debug\net8.0\Odd & Even Filter.deps.json
+C:\Users\user\source\repos\Odd & Even Filter\Odd & Even Filter\bin\Debug\net8.0\Odd & Even Filter.runtimeconfig.json
+C:\Users\user\source\repos\Odd & Even Filter\Odd & Even Filter\bin\Debug\net8.0\Odd & Even Filter.dll
+C:\Users\user\source\repos\Odd & Even Filter\Odd & Even Filter\bin\Debug\net8.0\Odd & Even Filter.pdb
+C:\Users\user\source\repos\Odd & Even Filter\Odd & Even Filter\obj\Debug\net8.0\Odd & Even Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Odd & Even Filter\Odd & Even Filter\obj\Debug\net8.0\Odd & Even Filter.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Odd & Even Filter\Odd & Even Filter\obj\Debug\net8.0\Odd & Even Filter.AssemblyInfo.cs
+C:\Users\user\source\repos\Odd & Even Filter\Odd & Even Filter\obj\Debug\net8.0\Odd & Even Filter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Odd & Even Filter\Odd & Even Filter\obj\Debug\net8.0\Odd & Even Filter.dll
+C:\Users\user\source\repos\Odd & Even Filter\Odd & Even Filter\obj\Debug\net8.0\refint\Odd & Even Filter.dll
+C:\Users\user\source\repos\Odd & Even Filter\Odd & Even Filter\obj\Debug\net8.0\Odd & Even Filter.pdb
+C:\Users\user\source\repos\Odd & Even Filter\Odd & Even Filter\obj\Debug\net8.0\Odd & Even Filter.genruntimeconfig.cache
+C:\Users\user\source\repos\Odd & Even Filter\Odd & Even Filter\obj\Debug\net8.0\ref\Odd & Even Filter.dll
