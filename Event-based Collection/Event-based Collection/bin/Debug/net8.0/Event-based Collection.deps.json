@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Event-based Collection/1.0.0": {
+        "runtime": {
+          "Event-based Collection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Event-based Collection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
